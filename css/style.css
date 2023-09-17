@@ -48,6 +48,7 @@ body {
   overflow: hidden;
   overflow-y: auto;
   font-family: "OpenSans-Regular";
+background-color: fbd5ab;
 }
 
 @media (min-width: 1200px) {
