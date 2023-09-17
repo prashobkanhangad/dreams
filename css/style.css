@@ -397,6 +397,11 @@ body {
   transform: rotate(20deg);
   margin-top: 20px;
 }
+
+.logo{
+  width: 12%;
+
+}
 .gtco-features .col-lg-8 .card .card-img-top {
   max-width: 0.8in;
   margin: 0 auto;
